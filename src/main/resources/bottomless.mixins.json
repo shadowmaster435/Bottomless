@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.skyternity.bottomless.Mixins",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "GenerationSettingsAccessor"
+  ],
+  "client": [],
+  "server": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
